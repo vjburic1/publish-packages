@@ -1,2 +1,2 @@
-FROM nginx:1.17
-COPY . /usr/share/nginx/html
+FROM pull docker.pkg.github.com/YOURNAME/js-build/tic-tac-toe:f29
+
